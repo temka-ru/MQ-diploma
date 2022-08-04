@@ -616,15 +616,15 @@ body {
 }
 
                        /* aside */
-.container-aside {
+/*.container-aside {
 	width: 270px;
 	flex-shrink: 0;
-}
+}*/
 .aside-titles {
 	font-size: 14px;
 	color: #0f0d0e;
 	font-weight: bold;
-	text-transform: uppercase;
+	text-transform: uppercase; s
 	text-align: center;
 }
 .aside-titles::after {
